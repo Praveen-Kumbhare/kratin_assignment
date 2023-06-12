@@ -1,0 +1,45 @@
+.MedicineReminder {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .MedicineReminder h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .MedicineReminder form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .MedicineReminder label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .MedicineReminder input,
+  .MedicineReminder select {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  
+  .MedicineReminder button[type="submit"] {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .MedicineReminder button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  

@@ -1,0 +1,55 @@
+.activity-tracker {
+  text-align: center;
+  margin: 20px;
+  
+}
+
+.activity-tracker h2 {
+  color: #333;
+}
+
+.activity-tracker p {
+  font-size: 18px;
+}
+
+.activity-tracker button {
+  margin: 10px;
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.activity-tracker input {
+  margin: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.activity-tracker form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.activity-tracker form button[type="submit"] {
+  margin-top: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.activity-tracker div.progress-bar {
+  width: 200px;
+  border: 1px solid #ccc;
+}
+
+.activity-tracker div.progress-bar div {
+  height: 20px;
+  background-color: green;
+}

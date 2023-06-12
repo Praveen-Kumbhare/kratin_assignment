@@ -1,0 +1,9 @@
+body {
+   background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url('C:\Users\pravi\Downloads\pexels-marcus-aurelius-6787202.jpg');
+    background-size: cover;
+  }
+  
